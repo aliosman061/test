@@ -9,6 +9,7 @@ public class AtmApp {
         System.out.println("Javayı öğrenmek çok kolay:)");
         //version4
         //yeni commit
+        //yorumlar
 
 
 
